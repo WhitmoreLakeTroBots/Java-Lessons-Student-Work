@@ -6,7 +6,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World");
+		
+		Dog mydog = new Dog();
 
+		mydog.bark();	
 	}
 
 }
