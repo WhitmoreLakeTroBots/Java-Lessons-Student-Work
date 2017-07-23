@@ -8,7 +8,7 @@ letters of their first name... ie Bart Simpson will become SimpBar.   This gives
 all students a space in the repository to store their class code.
 
 Each student will then have a private branch to work on and learns the basics
-of GIT while doing the coarse work.
+of GIT while doing the course work.
 
 This programming class is targeted for beginning programmers with no
 programming experience.
